@@ -1,4 +1,4 @@
 # Práctica Deep Learning con TensorFlow y Keras
 
 
-- Fichero Notebook : Práctica-MachineLearning-Najli Yaya Estévez.ipynb
+- Fichero Notebook (abrir con Google Colab) : Práctica-MachineLearning-Najli Yaya Estévez.ipynb
